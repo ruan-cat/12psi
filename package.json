@@ -34,5 +34,10 @@
     "sortablejs": "^1.15.6",
     "vue-property-decorator": "^8.5.1",
     "vue-template-compiler": "^2.6.11"
+  },
+  "author": {
+    "name": "ruan-cat",
+    "email": "1219043956@qq.com",
+    "url": "https://github.com/ruan-cat"
   }
 }
