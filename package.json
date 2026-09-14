@@ -2,7 +2,7 @@
 	"name": "erp-web",
 	"version": "7.4.1",
 	"private": true,
-	"packageManager": "pnpm@10.18.2",
+	"packageManager": "pnpm@12.4.1",
 	"scripts": {
 		"serve": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
 		"build": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
